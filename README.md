@@ -9,7 +9,7 @@
   <li>Create a new user</li>
   <li>Update the user</li>
   <li>Delete the user</li>
-  <li>with And handle errors</li>
+  <li>with handle errors</li>
   <li>And responsive pages</li>
 </ul>
 
